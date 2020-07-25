@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Data Science Learner 💻
 - 🔭 I’m currently working on Tensorflow
 - 🌱 I’m currently learning Machine Leaning
+- 🤔 I’m looking for help with Computer Vision
 <!--
 **harshalkumeriya/harshalkumeriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
